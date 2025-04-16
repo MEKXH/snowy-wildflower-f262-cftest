@@ -4,7 +4,7 @@
   "name": "snowy-wildflower-f262-cftest",
   "migrations": [
     {
-      "new_sqlite_classes":"Globe",
+      "new_sqlite_classes":["Globe"],
       "tag": "v1"
     }
   ],
